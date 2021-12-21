@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MVVM Example</string>
+
+    <!--  Log in activity  -->
+    <string name="log_in_title">Welcome back</string>
+    <string name="log_in_sub_title">Sign to continue</string>
+    <string name="log_in_email">Email</string>
+    <string name="log_in_password">Password</string>
+    <string name="log_in_et_password_hint">***************</string>
+    <string name="log_in_et_email_hint">example@gmail.com</string>
+    <string name="log_in_bt_login_text">Log in</string>
+    <string name="log_in_forgot">Forgot Password?</string>
+    <string name="log_in_sign_up">Don\'t have account?</string>
+    <string name="log_in_sign_up_">Sign up here</string>
+
+    <!--  Sign up activity  -->
+    <string name="sign_up_title">Create Account</string>
+    <string name="sign_up_sub_title">Create a new account</string>
+    <string name="sign_up_username">Username</string>
+    <string name="sign_up_email">Email</string>
+    <string name="sign_up_password">Password</string>
+    <string name="sign_up_confirm_password">Confirm Password</string>
+    <string name="sign_up_et_email_hint">example@gmail.com</string>
+    <string name="sign_up_et_username_hint">Lionel Messi</string>
+    <string name="sign_up_et_password_hint">***************</string>
+    <string name="sign_up_bt_sign_up">Create account</string>
+    <string name="sign_up_log_in">Already have a account?</string>
+    <string name="sign_up_log_in_">Log in</string>
+</resources>
