@@ -26,4 +26,8 @@
     <string name="sign_up_bt_sign_up">Create account</string>
     <string name="sign_up_log_in">Already have a account?</string>
     <string name="sign_up_log_in_">Log in</string>
+
+    <!--    -->
+    <string name="nav_menu_home">Home</string>
+    <string name="nav_menu_users">Users</string>
 </resources>
