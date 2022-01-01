@@ -4,12 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/khang/AndroidProject/MVVMExample/app/src/main/res/layout/activity_home.xml" value="0.371875" />
+        <entry key="..\:/Users/khang/AndroidProject/MVVMExample/app/src/main/res/layout/activity_login.xml" value="0.371875" />
         <entry key="..\:/Users/khang/AndroidProject/MVVMExample/app/src/main/res/layout/profile_fragment.xml" value="0.371875" />
         <entry key="..\:/Users/khang/AndroidProject/MVVMExample/app/src/main/res/menu/nav_menu.xml" value="0.371875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

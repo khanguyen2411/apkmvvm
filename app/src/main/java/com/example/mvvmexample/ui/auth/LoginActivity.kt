@@ -1,10 +1,8 @@
 package com.example.mvvmexample.ui.auth
 
 import android.content.Intent
-import android.os.Build
 import android.os.Bundle
 import android.widget.ProgressBar
-import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.databinding.DataBindingUtil
@@ -18,13 +16,13 @@ import com.example.mvvmexample.utils.hide
 import com.example.mvvmexample.utils.show
 import com.example.mvvmexample.utils.snackBar
 import org.kodein.di.KodeinAware
-import org.kodein.di.generic.instance
 import org.kodein.di.android.kodein
+import org.kodein.di.generic.instance
 
 class LoginActivity : AppCompatActivity(), AuthListener, KodeinAware {
 
     override val kodein by kodein()
-    private val factory : AuthViewModelFactory by instance()
+    private val factory: AuthViewModelFactory by instance()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
